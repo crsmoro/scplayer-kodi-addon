@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="32001">Geral</string>
+    <string id="32002">Usuário</string>	
+    <string id="32003">Senha</string>
+    <string id="32004">Lembrar de mim?</string>
+    <string id="32005">Nome do Player</string>	
+    <string id="32006">Avançado</string>	
+    <string id="32007">Executar como serviço</string>
+    <string id="32008">Endereço</string>
+    <string id="32009">Porta</string>
+    <string id="32010">Caminho Spotify App Key (local apenas)</string>
+    <string id="32011">Problema ao carregar os dados</string>
+    <string id="32012">Não foi possível conectar ao serviço</string>
+    <string id="32013">Por favor reabra o SCPlayer</string>
+    <string id="32014">Carregando</string>
+    <string id="32015">Impredir proteção de tela</string>
+    <string id="32016">Você deve adquirir este arquivo na pagina do spotify (https://devaccount.spotify.com/my-account/keys/), versão binária</string>
+    <string id="32017">Habilitar debug</string>
+</strings>

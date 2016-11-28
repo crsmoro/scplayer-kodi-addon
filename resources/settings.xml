@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="32001">
+    	<setting label="32002" type="text" id="username" default=""/>
+    	<setting label="32003" type="text" id="password" option="hidden" default=""/>
+    	<setting label="32004" type="bool" id="rememberme" default="true"/>
+    	<setting type="sep"/>
+    	<setting label="32005" type="text" id="playername" default="SCPlayer"/>
+    	<setting label="32015" type="bool" id="stopscreensaver" default="true"/>
+    	
+    </category>
+    <category label="32006">
+    	<setting label="32007" type="bool" id="runasservice" default="true"/>
+    	<setting label="32008" type="text"   id="hostname" default="localhost" visible="!eq(-1,true)"/>
+    	<setting label="32009" type="number"   id="port" default="4000" visible="!eq(-2,true)"/>
+    	<setting type="sep"/>
+    	<setting label="32010" type="file"   id="spotifyapppath" default=""/>
+    	<setting label="32016" type="lsep"/>
+    	<setting type="sep"/>
+    	<setting label="32007" type="bool" id="debug" default="true"/>
+    </category>
+</settings>

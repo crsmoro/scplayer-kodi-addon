@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="32001">General</string>
+    <string id="32002">User</string>	
+    <string id="32003">Password</string>
+    <string id="32004">Remember me?</string>
+    <string id="32005">Player name</string>	
+    <string id="32006">Advanced</string>	
+    <string id="32007">Run as service</string>
+    <string id="32008">Hostname</string>
+    <string id="32009">Port</string>
+    <string id="32010">Spotify App Key Path (local only)</string>
+    <string id="32011">Problema loading data</string>
+    <string id="32012">It was not possible to connect to the core</string>
+    <string id="32013">Please reopen SCPlayer</string>
+    <string id="32014">Loading</string>
+    <string id="32015">Stop screensaver</string>
+    <string id="32016">You need to get your Spotify App Key (https://devaccount.spotify.com/my-account/keys/), binary version</string>
+    <string id="32017">Enable debug</string>
+</strings>
